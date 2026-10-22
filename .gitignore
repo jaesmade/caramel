@@ -1,0 +1,6 @@
+# Original asset archive; the site uses the extracted assets/ folder.
+assets.rar
+
+# Local operating system files.
+.DS_Store
+Thumbs.db
